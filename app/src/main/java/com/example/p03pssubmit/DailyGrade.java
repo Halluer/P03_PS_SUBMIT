@@ -36,4 +36,6 @@ public class DailyGrade implements Serializable {
     public void setModuleCode(String moduleCode) {
         ModuleCode = moduleCode;
     }
+
+    //done
 }
